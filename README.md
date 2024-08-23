@@ -1,6 +1,6 @@
 # https://meganae.github.io/SPACE-GAME/
 
-<h1 align="center">Visit:https://swarupinfotech.github.io/Space_Game.github.io/ </h1>
+<h1 align="center">Visit:https://meganae.github.io/SPACE-GAME/ </h1>
 <h1 align="center">Hi 👋, I'm Metoushela</h1>
 <h3 align="center"> Android app xrom afrca */h3>
 
